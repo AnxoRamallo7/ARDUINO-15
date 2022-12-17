@@ -1,3 +1,8 @@
+/RIEGO AUTOMATIZADO/
+//En esta practica programamos un riego automatizado diseñado con portas loxicas con ur arduino,para esto poñemos como entadas algun dos pins do noso arduino//
+//desta forma e usando as variables mate maticas somos capaces de crear unha funcion loxica funcional en arduino//
+//o noso sistema regara cando (A=1,B=1,C=1),(A=1,B=1,C=0),(A=0,B=1,C=0)//
+
 // C++ code
 //
 int A = 0;
